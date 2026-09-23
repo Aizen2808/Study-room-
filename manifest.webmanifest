@@ -1,0 +1,15 @@
+{
+  "name": "Study Room Prototype",
+  "short_name": "Study Room",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
